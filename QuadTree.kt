@@ -1,4 +1,4 @@
-package ve.com.patillasoft.game.testdemovimiento
+package patillasoft.game.Quadtree
 
 import android.graphics.*
 
