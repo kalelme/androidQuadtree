@@ -1,4 +1,4 @@
-package patillasoft.game.Quadtree
+package ve.com.patillasoft.game.Quadtree
 
 import android.graphics.*
 
